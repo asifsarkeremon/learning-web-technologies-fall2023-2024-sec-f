@@ -2,19 +2,31 @@
  <patient sr="1">
   <serial_no>23</serial_no>
   <name>John Carter</name>
-  <admission_date>25/12/2015</admission_date>
+  <admission_date>
+   <date>25</date>
+   <month>12</month>
+   <year>2015</year>
+  </admission_date>
  </patient>
 
  <patient sr="2">
   <serial_no>29</serial_no>
   <name>Bob Marshal</name>
-  <admission_date>13/01/1999</admission_date>
+  <admission_date>
+   <date>13</date>
+   <month>01</month>
+   <year>1999</year>
+  </admission_date>
  </patient>
 
  <patient sr="3">
   <serial_no>35</serial_no>
   <name>Clark kent</name>
-  <admission_date>17/06/2005</admission_date>
+  <admission_date>
+   <date>17</date>
+   <month>06</month>
+   <year>2005</year>
+  </admission_date>
  </patient>
 
 </hospital>
